@@ -1,4 +1,4 @@
-/// (1) - Factorial
+/// Day (1) - Factorial
 #include <iostream>
 using namespace std;
 int fact(int n){
