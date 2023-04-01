@@ -11,6 +11,10 @@ bool findchar(string str,int n,int i, char key)
         return true;
         
     }
+    
+    
+    //return ke bina bhi ho jayega 🔽
+    
     return findchar(str,n,i+1,key);
    
 }
